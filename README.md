@@ -1,6 +1,4 @@
 #Resumen de la practica
-Habituarnos al ciclo de trabajo con git
+Habituarnos al ciclo de trabajo con Git
 
-#Modificacion conflicto tipo 2
 
-#Modificacion conflicto tipo3
